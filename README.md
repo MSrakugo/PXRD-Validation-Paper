@@ -22,7 +22,7 @@ Activate the environment you've just configured. This ensures that the project's
 poetry env activate
 ```
 
-### **Step 3: Install Dependencies (⭐ Missing Step)**
+### **Step 3: Install Dependencies**
 
 Once the environment is active, run the following command to install all the required project dependencies as listed in `pyproject.toml`.
 
