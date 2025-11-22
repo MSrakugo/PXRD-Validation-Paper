@@ -30,6 +30,10 @@ Once the environment is active, run the following command to install all the req
 poetry install
 ```
 
+### **Next step: Make figures with notebooks**
+
+Currently, you can run programs written in notebooks. With a dataset in the folder named "0_Data," you can run the following notebooks: `2_Program/0_2_Visualize_Data_251110.ipynb`. If you cannot run a notebook, you can view all notebook outputs.
+
 ## Author
 
 Satoshi Matsuno, Tohoku university, Japan
