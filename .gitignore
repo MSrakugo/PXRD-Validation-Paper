@@ -8,16 +8,29 @@ Rietveld_Harada
 XRD_Simulation
 *DS_Store
 ._*
+
+2_Program/__pycache__
 2_Program/OLD
 2_Program/.ipynb_checkpoints
 2_Program/1_thin_section_xy_compiler.ipynb
 2_Program/0_3_XRD_Pattern_Visualization+Zoning_Fitting_ver240815.ipynb
 2_Program/0_3_Raw_mineral_mode_visualization_raw.ipynb
 2_Program/0_Bulk_XRF_XRD_比較_ver240305.ipynb
+2_Program/0_4_Profex_fitting_visualization_batch_.ipynb
+2_Program/0_6_Relative_error_OLD
+2_Program/0_6_result_description
+2_Program/outputs
+2_Program/compile_rietveld_str_parameters.py
+2_Program/0_6_one_device_latent_heteroscedastic_gp_real_data_ADVI
+2_Program/0_6_one_device_latent_heteroscedastic_gp_real_data/
+
+
+*/OLD
 
 0_Data/*
 !0_Data/2_Compiled_Data
 0_Data/2_Compiled_Data/OLD
+0_Data/2_Compiled_Data/Refined_parameter
 
 XRD波長と角度の関係図
 pxrd-backup.git
