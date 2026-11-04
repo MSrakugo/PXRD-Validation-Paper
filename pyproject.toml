@@ -20,10 +20,18 @@ dependencies = [
     "ipykernel (>=7.1.0,<8.0.0)",
     "openpyxl (>=3.1.5,<4.0.0)",
     "jupyter (>=1.1.1,<2.0.0)",
-    "notebook (>=7.5.0,<8.0.0)"
+    "notebook (>=7.5.0,<8.0.0)",
+    "statsmodels (>=0.14.6,<0.15.0)",
+    "pymc (<6)",
+    "arviz (<1)",
+    "graphviz (>=0.21,<0.22)"
 ]
 
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^7.2.0"
+
